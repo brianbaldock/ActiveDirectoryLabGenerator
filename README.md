@@ -28,10 +28,10 @@ SharePath
 
 ### EXAMPLES
 - Create AD Users and Groups and display the passwords generated for each user in the console
-{.\New-LabConfiguration.ps1 -CompanyName "Contoso Inc" -CompanyDomain "contoso.com"}
+```.\New-LabConfiguration.ps1 -CompanyName "Contoso Inc" -CompanyDomain "contoso.com"```
 
 - Create AD Users and Groups and export the password list to a CSV file
-{.\New-LabConfiguration.ps1 -CompanyName "Contoso Inc" -CompanyDomain "contoso.com" -ExportCSV}
+```.\New-LabConfiguration.ps1 -CompanyName "Contoso Inc" -CompanyDomain "contoso.com" -ExportCSV```
 
 - Create personal and common shared folder structure and ACLs at specific path and export passwords as CSV
-{.\New-LabConfiguration.ps1 -CompanyName "Contoso Inc" -CompanyDomain "contoso.com" -SharePath "C:\Shares" -ExportCSV}
+```.\New-LabConfiguration.ps1 -CompanyName "Contoso Inc" -CompanyDomain "contoso.com" -SharePath "C:\Shares" -ExportCSV```
