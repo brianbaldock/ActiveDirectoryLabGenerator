@@ -1,0 +1,86 @@
+Name,GroupScope,GroupCategory,adminDescription
+Accounting,Global,Distribution,Accounting
+G-AccountingManager,Global,Security,Accounting
+G-AccountingDirector,Global,Security,Accounting
+G-Accountants,Global,Security,Accounting
+DL-Accounting,DomainLocal,Security,Accounting
+Administration,Global,Distribution,Administration
+G-ManagerAdministration,Global,Security,Administration
+G-DirectorAdministration,Global,Security,Administration
+G-AdministrationPM,Global,Security,Administration
+G-AdministrativeAssistant,Global,Security,Administration
+DL-Administration,DomainLocal,Security,Administration
+Customers Services,Global,Distribution,CustomersServices
+G-CustomerServiceManager,Global,Security,CustomersServices
+G-CustomerServiceRepresentative,Global,Security,CustomersServices
+G-CustomerServiceDirector,Global,Security,CustomersServices
+DL-CustomerServices,DomainLocal,Security,CustomersServices
+Data Services,Global,Distribution,DataServices
+G-DataAnalyst,Global,Security,DataServices
+DL-DataServices,DomainLocal,Security,DataServices
+Human Resources,Global,Distribution,HumanResources
+G-HumanResourcesManager,Global,Security,HumanResources
+G-HumanResourcesDirector,Global,Security,HumanResources
+G-HumanResourcesAgent,Global,Security,HumanResources
+DL-HumanResources,DomainLocal,Security,HumanResources
+IT Development,Global,Distribution,ITDevelopment
+G-DirectorITDevelopment,Global,Security,ITDevelopment
+G-ManagerITDevelopment,Global,Security,ITDevelopment
+G-LeadDeveloper,Global,Security,ITDevelopment
+G-SeniorDeveloper,Global,Security,ITDevelopment
+G-SoftwareEngineer,Global,Security,ITDevelopment
+DL-ITDevelopment,DomainLocal,Security,ITDevelopment
+IT Operations,Global,Distribution,ITOperations
+G-ProjectManager,Global,Security,ITOperations
+DL-ITOperations,DomainLocal,Security,ITOperations
+IT Support,Global,Distribution,ITSupport
+G-CallCenterRepresentative,Global,Security,ITSupport
+G-DirectorITSupport,Global,Security,ITSupport
+G-SystemAdministrator,Global,Security,ITSupport
+G-ITProgramManager,Global,Security,ITSupport
+IT Support Help Desk,Global,Distribution,ITSupport
+G-InternITSupport,Global,Security,ITSupport
+G-ITSupportLevel1,Global,Security,ITSupport
+G-ITSupportLevel2,Global,Security,ITSupport
+G-DirectorITHelpDesk,Global,Security,ITSupport
+DL-ITSupport,DomainLocal,Security,ITSupport
+Legal,Global,Distribution,Legal
+G-Attorney,Global,Security,Legal
+DL-Legal,DomainLocal,Security,Legal
+Marketing,Global,Distribution,Marketing
+G-GraphicDesigner,Global,Security,Marketing
+G-InternMarketing,Global,Security,Marketing
+G-CommunicationsAgent,Global,Security,Marketing
+G-MarketingPM,Global,Security,Marketing
+G-ProductDesigner,Global,Security,Marketing
+DL-Marketing,DomainLocal,Security,Marketing
+Marketing Research,Global,Distribution,MarketingResearch
+G-MarketingSpecialist,Global,Security,MarketingSpecialist
+DL-MarketingResearch,DomainLocal,Security,MarketingResearch
+Operations,Global,Distribution,Operations
+G-OperationsProjectManager,Global,Security,Operations
+G-BusinessAnalyst,Global,Security,Operations
+G-DirectorOperations,Global,Security,Operations
+G-OperationsManager,Global,Security,Operations
+DL-Operations,DomainLocal,Security,Operations
+Reception,Global,Distribution,Reception
+G-Receptionist,Global,Security,Reception
+DL-Reception,DomainLocal,Security,Reception
+Records,Global,Distribution,Records
+G-RecordsManager,Global,Security,Records
+G-RecordsClerk,Global,Security,Records
+G-RecordsDirector,Global,Security,Records
+DL-Records,DomainLocal,Security,Records
+Sales,Global,Distribution,Sales
+G-SalesRepresentative,Global,Security,Sales
+G-SalesManager,Global,Security,Sales
+DL-Sales,DomainLocal,Security,Sales
+Senior Leadership Team,Global,Distribution,SeniorLeadershipTeam
+G-ExecutiveAssistant,Global,Security,SeniorLeadershipTeam
+G-CorporateVicePresident,Global,Security,SeniorLeadershipTeam
+DL-SeniorLeadershipTeam,DomainLocal,Security,SeniorLeadershipTeam
+Technical Sales,Global,Distribution,TechnicalSales
+G-TechnicalSalesManager,Global,Security,TechnicalSales
+G-TechnicalSalesPM,Global,Security,TechnicalSales
+G-TechnicalSalesAssociate,Global,Security,TechnicalSales
+DL-TechnicalSales,DomainLocal,Security,TechnicalSales
