@@ -10,15 +10,15 @@ Brian Baldock - brian.baldock@microsoft.com
 
 ### PARAMETERS
 - CompanyName
-- Mandatory Parameter (What do you wanbt the root level of the OU structure for the domain going to look like?)
--- Example:
-    --- ABC Company
-      ---- Users
-      ---- Groups
-      ---- Computers
+  - Mandatory Parameter (What do you wanbt the root level of the OU structure for the domain going to look like?)
+    - Example:
+      - ABC Company
+        - Users
+        - Groups
+        - Computers
 
-CompanyDomain
-: Mandatory Parameter (This is the publicly routable domain name that you will be using for email addresses for your users and distribution groups.)
+- CompanyDomain
+  - Mandatory Parameter (This is the publicly routable domain name that you will be using for email addresses for your users and distribution groups.)
 
 ExportCSV
 : Optional Parameter (Create AD Users and Groups and export the user password list to a CSV file, otherwise will print passwords to console.)
